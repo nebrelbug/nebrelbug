@@ -5,7 +5,7 @@ Right now my main projects are [Squirrelly](https://squirrelly.js.org), [Eta](ht
 
 :crossed_fingers: I'm currently working on giving my npm packages Deno support
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebrelbug&show_icons=true" alt="nebrelbug" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nebrelbug&show_icons=true" alt="nebrelbug" />
 
 
-<p align="right" style="inline-block"> <img src="https://komarev.com/ghpvc/?username=nebrelbug" alt="nebrelbug" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nebrelbug" alt="nebrelbug" /> </p>
